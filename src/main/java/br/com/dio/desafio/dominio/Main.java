@@ -25,6 +25,7 @@ public class Main {
         System.out.println(curso1.toString());
         System.out.println(curso2.toString());
         System.out.println(mentoria1.toString());
+        System.out.println(mentoria1.toString());
 
     }
 }
